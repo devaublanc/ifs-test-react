@@ -9,7 +9,7 @@ With ReactJS, create a select control with autocomplete **from scratch** (no ext
 * Pass the data to the component and build the select with it
 * When the user type some text, the component is able to filter the result by displaying only the items that include the typing term
 * We can select an item from the select by clicking on it.
-* Please try to respect the mockup below, the CSS is also an important part ^^
+* Please try to respect the mockup below, the CSS is also an important part (no bootstrap) ^^
 
 ## Expected Design
 <img src="https://raw.githubusercontent.com/devaublanc/ifs-test-react/master/select.png" alt="select">
@@ -30,8 +30,6 @@ Prop | Description | Type | Default
 
 
 ## 1) Installation
-
-Fork this project on your Github. Install and lauch the project
 
 ```
 $ git clone https://github.com/devaublanc/ifs-test-react.git
