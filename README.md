@@ -124,6 +124,6 @@ export default class Home extends Component {
 
 ## 3) Submit the feature
 
-When you have finish, commit the feature on your fork and send us the link :) Thanks !
+When you have finish, commit the feature and send us the link of your repo :) Thanks !
 
 <img src="http://ljdchost.com/ODSWaAt.gif" alt="lol" width="250">
