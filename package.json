@@ -81,7 +81,7 @@
     "rimraf": "2.5.4",
     "semantic-release": "^6.3.2",
     "sinon": "1.17.7",
-    "standard-version": "^4.0.0",
+    "standard-version": "^8.0.1",
     "style-loader": "0.13.1",
     "stylelint": "7.7.1",
     "superagent": "3.3.2",
