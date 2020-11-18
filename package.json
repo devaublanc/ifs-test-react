@@ -79,7 +79,7 @@
     "react-router": "^3.0.2",
     "react-styleguidist": "4.6.3",
     "rimraf": "2.5.4",
-    "semantic-release": "^6.3.2",
+    "semantic-release": "^17.2.3",
     "sinon": "1.17.7",
     "standard-version": "^4.0.0",
     "style-loader": "0.13.1",
