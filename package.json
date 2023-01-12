@@ -34,7 +34,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "debug": "2.6.0",
+    "debug": "2.6.9",
     "superagent": "^3.3.2"
   },
   "devDependencies": {
